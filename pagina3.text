@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Videojuegos de consola</title>
+    </head>
+    <body background="Background.png" id="0">
+        <ol start="3">
+            <font face=impact size=5 color=#f1c40f>
+                <li><a href="#3"><font face=verdana size=5 color=#ecf0f1>Street Fighter II.</a></li>
+                <font face=impact size=5 color=#f1c40f>
+                <li><a href="#4"><font face=verdana size=5 color=#ecf0f1>The Legend of Zelda: Ocarina of Time.</a></li>
+        </ol>
+        <p align="center"><img src="Pagina_3_principal.jpg" width="800px" height="350"></p>
+        <hr size=3 color=#d35400>
+        <ol start="3"><font face=impact size=5 color=#f1c40f>
+            <li id="3"><font face=verdana size=5 color=#ecf0f1>Street Fighter II:</li>
+        </ol>
+        <table cellspacing="3" cellpadding="6"  border="4" align="center">
+            <tr>
+                <th><font face=verdana size=4 color=#ecf0f1>Imagen</th>
+                <th colspan="2"><font face=verdana size=4 color=#ecf0f1>Información</th>
+                <th colspan="6"><font face=verdana size=4 color=#ecf0f1>Descripción</th>
+                <th><font face=verdana size=4 color=#ecf0f1>Calificación</th>
+            </tr>
+            <tr>
+                <td rowspan="7" align="center"><img src="street_Fighter_2.jpg" width="220px" height="220px"></td>
+            </tr>
+            <tr>
+                <td width="180px" align="justify" height="30px"><font face=verdana size=2 color=#ecf0f1>título:</td>
+                <td align="center" width="180px" height="30px" align="justify"><font face=verdana size=2 color=#ecf0f1>Street Fighter II: The World Warrior</td>
+                <td rowspan="6" colspan="6" align="justify" width=320px><font face=verdana size=2 color=#ecf0f1>
+                        Es un videojuego de lucha originalmente lanzado para arcade en 1991. Es la segunda 
+                        entrega de la saga Street Fighter y la secuela del original Street Fighter publicado 
+                        en 1987. Primer juego de la serie Street Fighter en alcanzar fama mundial e iniciador 
+                        del fenómeno de los videojuegos en el género de la lucha. Desarrollado por la empresa 
+                        Capcom. En esta saga introdujo una velocidad de juego más lenta y cuenta con 8 personajes 
+                        a elegir, 4 jefes finales y un final diferente por cada personaje. A su vez, poseía un 
+                        control que, al igual que su antecesor, utiliza combinaciones de la palanca y 6 botones 
+                        para ejecutar ataques especiales durante la pelea, como el lanzamiento de bolas de fuego 
+                        (abajo, diagonal abajo-adelante).
+                </td>
+                <td align="center" height="30px"><font face=verdana size=2 color=#ecf0f1>⭐</td>
+            </tr>
+            <tr>
+                <td height="30px"><font face=verdana size=2 color=#ecf0f1>Género:</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>Videojuego de pelea</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td height="30px"><font face=verdana size=2 color=#ecf0f1>Diseñadores:</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>Akira Nishitani y Akira Yasuda</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>⭐⭐⭐⭐</td>
+                        
+            </tr>
+            <tr>
+                <td height="30px"><font face=verdana size=2 color=#ecf0f1>Desarrollador</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>Capcom</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td height="30px"><font face=verdana size=2 color=#ecf0f1>Fecha de publicación:</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>febrero de 1991</td>
+                <td align="center" bgcolor="#ecf0f1"><font face=verdana size=2 color=#ecf0f1>⭐⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td height="30px"><font face=verdana size=2 color=#ecf0f1>Compatibilidad:</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>Super Nintendo, Arcade, Android, Game Boy, ect</td>
+                <td align="center"><font face=verdana size=2 color=#ecf0f1>⭐⭐⭐⭐⭐⭐⭐</td>
+            </tr>
+        </table>
+        <p align=right><a href="#0"><button>Inicio</button></a></p> 
+        <hr size=3 color=#d35400>
+        <ol start="4"><font face=impact size=5 color=#f1c40f>
+            <li id="4"><font face=verdana size=5 color=#ecf0f1>The Legend of Zelda: Ocarina of Time.</li>
+        </ol>
+        <p><font face=Verdana size=3 color=#ecf0f1></p>
+        <img src="Zelda.jpg" width="300px" height="300px" align=left>
+        <p align="justify">
+            The Legend of Zelda: Ocarina of Time no es únicamente uno de los mejores juegos de la historia, es un 
+            candidato firme y constante a ser el mejor de todos. A fin de cuentas, es el juego ante el que se miden 
+            todos los Zeldas y, por extensión, cualquier otro título de aventuras. Pero ¿qué lo hace tan especial? <br>
+
+            Lanzado originalmente en 1998, Zelda: Ocarina of Time estaba llamado a ser el caballo de batalla de Nintendo 
+            y la N64. Así lo entendieron todos los que presenciaron la primera beta del conocido como Zelda 64 tres años 
+            antes. La realidad, por otro lado, es que por entonces ni los creativos de La Gran N tenían claro cómo iba a 
+            ser el debut del Héroe de Hyrule en aquella bestia de 64 bits. <br>
+
+            Es más, Nintendo estaba aprendiendo sobre la marcha, a base de ensayo y error, a hacer juegos en entornos 
+            tridimensionales. Lo que no sospechaban desde Kioto es que acabarían marcando las pautas de los juegos 
+            venideros, no solo por el modo de sumergir al jugador en las sensaciones de aventura, sino por el poso que 
+            Ocarina of Time ha dejado en el arte y la ciencia de hacer videojuegos. <br>
+
+            Y, sobre todas las cosas, el fascinante viaje de Link de niño a adulto. Como comentó Shigeru Miyamoto 
+            (creador de The Legend of Zelda o Super Mario Bros.) Al principio del juego uno ve el mundo a través de los 
+            ojos de un niño, convirtiéndose en un lugar muy diferente al llegar a la edad adulta. <br>
+
+            En este aspecto, el tema principal de Ocarina of Time también podía ser perfectamente una analogía del estado 
+            de madurez por el que estaba pasando la industria del videojuego, pero también la de los jugadores que habían 
+            crecido con las consolas y juegos de la propia Nintendo.
+
+            ¿Casualidad? Dicen que la coincidencia es una ilusión y. como verás a continuación, el talento y la pasión 
+            por hacer juegos al estilo Nintendo marcaron la diferencia ante lo desconocido, que fue mucho. Lo cual no 
+            quita, por otro lado, que Miyamoto y su equipo también deseaban hacer, como veremos más abajo, un Zelda de 
+            capa y espada.
+        </p>
+        <p align=right><a href="#0"><button>Inicio</button></a></p>       
+    </body>
+</html>
